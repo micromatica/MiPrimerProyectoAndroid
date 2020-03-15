@@ -17,12 +17,12 @@
         android:layout_marginEnd="8dp"
         android:layout_marginRight="8dp"
         android:layout_marginBottom="8dp"
-        android:text="Bienvenido"
+        android:text="@string/idioma"
         android:textColor="#FFFFFF"
         android:textSize="36sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.502"
+        app:layout_constraintHorizontal_bias="0.56"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.073" />
@@ -34,14 +34,14 @@
         android:layout_marginTop="8dp"
         android:layout_marginBottom="8dp"
         android:background="#03A9F4"
-        android:text="Button"
+        android:text="@string/boton"
         android:textColor="#FFFFFF"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.54"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView2"
         app:layout_constraintVertical_bias="1.0" />
-
+    <!--José-->
 </androidx.constraintlayout.widget.ConstraintLayout>
 
-    <!--https://www.youtube.com/watch?v=S7TwRIKqCu4-->
