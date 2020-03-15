@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">MiPrimerProyectoAndroid</string>
     <string name="idioma">Bienvenido</string>
+    <string name="boton">Entrar</string>
 </resources>
